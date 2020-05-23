@@ -21,8 +21,8 @@ title: CH Documentation
 email: nick@connectholland.nl
 description: >- # this means to ignore newlines until "baseurl:"
   Proof of concept for serving ch documentation with the use of Markdown.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/poc-documentation" # the subpath of your site, e.g. /blog
+url: "https://nickvanderzwet.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ConnectHolland
 github_username:  ConnectHolland
 
