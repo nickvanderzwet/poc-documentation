@@ -44,8 +44,6 @@ search_tokenizer_separator: /[\s/]+/
 # Supports true (default) or false/nil
 heading_anchors: true
 
-
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

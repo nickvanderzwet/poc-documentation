@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: Home
+has_children: true
 ---
 # Home
 

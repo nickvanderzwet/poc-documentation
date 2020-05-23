@@ -1,3 +1,9 @@
+---
+layout: page
+title: Project 2
+parent: Documentation
+has_children: true
+---
 # Suspiria mors placido
 
 ## Themin enim Neptunum
