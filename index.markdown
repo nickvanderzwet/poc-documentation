@@ -7,7 +7,9 @@ has_children: true
 
 Documentation theme voor Jekyll static site generator.
 
-https://pmarsceill.github.io/just-the-docs/docs/customization/
+- [Just The Docs](https://pmarsceill.github.io/just-the-docs/docs/customization/)
+- [Jekyll](https://jekyllrb.com/)
+- [Documentation Poc Repo](https://github.com/nickvanderzwet/poc-documentation)
 
 ## Pros
 
